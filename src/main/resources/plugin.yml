@@ -1,0 +1,4 @@
+name: WebWhitelist
+version: '${project.version}'
+main: top.genmc.webwhitelist.WebWhitelis
+api-version: '1.20'

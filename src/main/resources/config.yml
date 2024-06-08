@@ -1,0 +1,6 @@
+database:
+  host: 192.168.1.53
+  port: 3306
+  name: webwhitelist
+  username: webwhitelist
+  password: t64tkzXcFAwss2Sb
