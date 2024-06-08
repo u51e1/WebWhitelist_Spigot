@@ -1,6 +1,9 @@
 database:
-  host: 192.168.1.53
+  host: hostname
   port: 3306
   name: webwhitelist
   username: webwhitelist
-  password: t64tkzXcFAwss2Sb
+  password: password
+messages:
+  not_allowed: '您的用户名不在白名单中。'
+  verify_error: '无法验证您的用户名。'
